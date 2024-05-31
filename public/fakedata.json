@@ -1,0 +1,123 @@
+[
+    {
+      "thumbnail": "https://www.volunteerforever.com/wp-content/uploads/2019/01/Cheap-Affordable-Volunteer-Programs-Header.jpg",
+      "title": "Educational Outreach Program Volunteers Needed",
+      "description": "Join us in our mission to provide quality education to underprivileged children. Volunteers will assist with tutoring, organizing educational activities, and mentoring.",
+      "category": "Education",
+      "location": "Community Learning Center, 456 Oak St, Smalltown, USA",
+      "volunteersNeeded": 8,
+      "deadline": "2024-07-15",
+      "organizerName": "Md Robiul Hossen",
+      "organizerEmail": "mrhrobiul008877@gmail.com"
+    },
+    {
+      "thumbnail": "https://www.scimex.org/__data/assets/image/0017/471113/shutterstock_199091384.jpg",
+      "title": "Support Group Facilitators Needed",
+      "description": "We are seeking empathetic individuals to facilitate support group sessions for individuals dealing with mental health challenges. Training provided.",
+      "category": "Social Service",
+      "location": "Hope Center, 789 Elm St, Bigcity, USA",
+      "volunteersNeeded": 5,
+      "deadline": "2024-07-10",
+      "organizerName": "Md Robiul Hossen",
+      "organizerEmail": "mrhrobiul008877@gmail.com"
+    },
+    {
+      "thumbnail": "https://parkcountyanimalshelter.org/wp-content/uploads/smiling-volunteers-of-animals-shelter-squatting-an-FM3GJAZ.jpg",
+      "title": "Animal Shelter Volunteers Needed",
+      "description": "Help us care for and find loving homes for animals in need. Volunteers will assist with feeding, cleaning, socializing animals, and adoption events.",
+      "category": "Animal Welfare",
+      "location": "City Animal Shelter, 101 Pine Ave, Townsville, USA",
+      "volunteersNeeded": 12,
+      "deadline": "2024-07-20",
+      "organizerName": "Md Robiul Hossen",
+      "organizerEmail": "mrhrobiul008877@gmail.com"
+    },
+    {
+      "thumbnail": "https://texas.preventblindness.org/wp-content/uploads/sites/17/2020/05/PBT-volunteers-at-health-fair.jpg",
+      "title": "Health Fair Volunteers Needed",
+      "description": "Join us in promoting health and wellness in our community. Volunteers will assist with setup, registration, health screenings, and educational booths.",
+      "category": "Healthcare",
+      "location": "Community Center, 202 Maple St, Villagetown, USA",
+      "volunteersNeeded": 15,
+      "deadline": "2024-07-25",
+      "organizerName": "Md Robiul Hossen",
+      "organizerEmail": "mrhrobiul008877@gmail.com"
+    },
+    {
+      "thumbnail": "https://www.superprof.com/blog/wp-content/uploads/2017/09/pexels-katerina-holmes-5905485.jpg",
+      "title": "English Language Tutors Needed",
+      "description": "Volunteers needed to help immigrants and refugees improve their English language skills. No prior teaching experience required, just a willingness to help.",
+      "category": "Education",
+      "location": "Newcomer Community Center, 303 Oak St, Welcomingville, USA",
+      "volunteersNeeded": 10,
+      "deadline": "2024-07-30",
+      "organizerName": "Md Robiul Hossen",
+      "organizerEmail": "mrhrobiul008877@gmail.com"
+    },
+    {
+      "thumbnail": "https://d3i6fh83elv35t.cloudfront.net/static/2023/09/refugee-gardens-volunteers-RG36-1-1024x768.jpeg",
+      "title": "Community Garden Volunteers Needed",
+      "description": "Join us in cultivating a vibrant community garden. Volunteers will help with planting, watering, weeding, and maintaining garden beds.",
+      "category": "Social Service",
+      "location": "Community Garden, 404 Vine St, Greentown, USA",
+      "volunteersNeeded": 6,
+      "deadline": "2024-08-05",
+      "organizerName": "Md Robiul Hossen",
+      "organizerEmail": "mrhrobiul008877@gmail.com"
+    },
+    {
+      "thumbnail": "https://patch.com/img/cdn/users/114738/2011/09/raw/8d814e09451c2ac2c577906ecc958c6a.jpg",
+      "title": "Pet Therapy Volunteers Needed",
+      "description": "Share the love of your furry friend with those in need! Volunteers and their well-behaved pets are needed to provide pet therapy to seniors and patients.",
+      "category": "Animal Welfare",
+      "location": "Sunrise Senior Living, 505 Elm St, Sunnyside, USA",
+      "volunteersNeeded": 4,
+      "deadline": "2024-08-10",
+      "organizerName": "Md Robiul Hossen",
+      "organizerEmail": "mrhrobiul008877@gmail.com"
+    },
+    {
+      "thumbnail": "https://assets-global.website-files.com/649a0feb6acb65fee57a1731/649a0feb6acb65fee57a1922_GFB%20volunteers%20sorting%20food-min.jpeg",
+      "title": "Food Bank Volunteers Needed",
+      "description": "Help fight hunger in our community by volunteering at the local food bank. Volunteers will assist with sorting, packing, and distributing food items.",
+      "category": "Social Service",
+      "location": "Community Food Bank, 606 Pine St, Harvestville, USA",
+      "volunteersNeeded": 20,
+      "deadline": "2024-08-15",
+      "organizerName": "Md Robiul Hossen",
+      "organizerEmail": "mrhrobiul008877@gmail.com"
+    },
+    {
+      "thumbnail": "https://lifeasartasia.art/wp-content/uploads/2019/12/volunteer-art-teacher-mega-with-local-children-and-the-outcome-of-one-of-her-weekly-art-workshops.-.jpg?w=640",
+      "title": "Children's Art Workshop Volunteers Needed",
+      "description": "Join us in sparking creativity and imagination in children through art. Volunteers will assist with art projects, setup, and cleanup.",
+      "category": "Education",
+      "location": "Community Arts Center, 707 Maple St, Artville, USA",
+      "volunteersNeeded": 8,
+      "deadline": "2024-08-20",
+      "organizerName": "Md Robiul Hossen",
+      "organizerEmail": "mrhrobiul008877@gmail.com"
+    },
+    {
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/7/22/722854ba-fe80-11ee-838f-4fb5595338db/6622c193ea9ee.image.jpg?resize=767%2C500",
+      "title": "Community Cleanup Event Volunteers Needed",
+      "description": "Help keep our community clean and green! Volunteers will participate in litter cleanup, graffiti removal, and beautification projects.",
+      "category": "Social Service",
+      "location": "City Park, 808 Oak St, Cleanville, USA",
+      "volunteersNeeded": 30,
+      "deadline": "2024-08-25",
+      "organizerName": "Md Robiul Hossen",
+      "organizerEmail": "mrhrobiul008877@gmail.com"
+    },
+    {
+      "thumbnail": "https://www.egypttoday.com/siteimages/Larg/202311190529162916.jpg",
+      "title": "Mobile Health Clinic Volunteers Needed",
+      "description": "Join us in providing healthcare services to underserved communities. Volunteers will assist with patient registration, screenings, and education.",
+      "category": "Healthcare",
+      "location": "Mobile Health Clinic, Various Locations, Outreachtown, USA",
+      "volunteersNeeded": 12,
+      "deadline": "2024-09-01",
+      "organizerName": "Md Robiul Hossen",
+      "organizerEmail": "mrhrobiul008877@gmail.com"
+    }
+]
